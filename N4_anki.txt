@@ -1,0 +1,474 @@
+#separator:comma
+#html:false
+安全,あんぜん Safety
+意見,いけん Opinion
+会議,かいぎ Meeting
+関係,かんけい Relationship
+技術,ぎじゅつ Technology
+客,きゃく Guest
+教育,きょういく Education
+空港,くうこう Airport
+形,かたち Shape
+経済,けいざい Economy
+警察,けいさつ Police
+研究,けんきゅう Research
+原因,げんいん Cause
+光,ひかり Light
+高校,こうこう High school
+国際,こくさい International
+最近,さいきん Recently
+最初,さいしょ First
+最後,さいご Last
+男性,だんせい Male
+女性,じょせい Female
+夫,おっと Husband
+妻,つま Wife
+子,こ Child
+親,おや Parent
+彼女,かのじょ She / Girlfriend
+娘,むすめ Daughter
+産業,さんぎょう Industry
+工業,こうぎょう Manufacturing industry
+市民,しみん Citizen
+試合,しあい Match
+事故,じこ Accident
+事務所,じむしょ Office
+時代,じだい Era
+自由,じゆう Freedom
+社会,しゃかい Society
+社長,しゃちょう Company president
+将来,しょうらい Future
+場所,ばしょ Place
+人口,じんこう Population
+世界,せかい World
+政治,せいじ Politics
+生活,せいかつ Life
+戦争,せんそう War
+特に,とくに Especially
+特別,とくべつ Special
+反対,はんたい Opposition
+番組,ばんぐみ Program
+必要,ひつよう Necessary
+部長,ぶちょう Department manager
+課長,かちょう Section manager
+文化,ぶんか Culture
+貿易,ぼうえき Trade
+予定,よてい Schedule
+理由,りゆう Reason
+歴史,れきし History
+工場,こうじょう Factory
+行う,おこなう To conduct
+以内,いない Within
+医学,いがく Medical science
+科学,かがく Science
+文学,ぶんがく Literature
+火,ひ Fire
+会場,かいじょう Venue
+簡単,かんたん Simple
+危険,きけん Danger
+機会,きかい Opportunity
+競争,きょうそう Competition
+交通,こうつう Traffic
+今度,こんど Next time
+試験,しけん Exam
+寺,てら Temple
+十分,じゅうぶん Enough
+森,もり Forest
+林,はやし Grove
+島,しま Island
+昔,むかし Long ago
+説明,せつめい Explanation
+地震,じしん Earthquake
+比べる,くらべる To compare
+普通,ふつう Ordinary
+壁,かべ Wall
+法律,ほうりつ Law
+夢,ゆめ Dream
+利用,りよう Use
+例えば,たとえば For example
+連絡,れんらく Contact
+音,おと Sound
+途中,とちゅう On the way
+選ぶ,えらぶ To choose
+思う,おもう To think
+確か,たしか Certain
+気分,きぶん Mood
+急,きゅう Urgent
+空気,くうき Air
+決して,けっして Never
+血,ち Blood
+校長,こうちょう Principal
+高校生,こうこうせい High school student
+残念,ざんねん Regret
+住所,じゅうしょ Address
+小学校,しょうがっこう Elementary school
+小説,しょうせつ Novel
+息子,むすこ Son
+卒業,そつぎょう Graduation
+美術館,びじゅつかん Art museum
+必ず,かならず Surely
+複雑,ふくざつ Complicated
+変わる,かわる To change
+味,あじ Taste
+代わり,かわり Substitute
+首,くび Neck
+割合,わりあい Ratio
+一度,いちど Once
+運転手,うんてんしゅ Driver
+会話,かいわ Conversation
+楽しめ,たのしめ Enjoyment
+季節,きせつ Season
+興味,きょうみ Interest
+港,みなと Port
+郊外,こうがい Suburb
+失敗,しっぱい Failure
+生きる,いきる To live
+席,せき Seat
+線,せん Line
+中学校,ちゅうがっこう Middle school
+注意,ちゅうい Attention
+答える,こたえる To answer
+入院,にゅういん Hospitalization
+入学,にゅうがく School admission
+仕方,しかた Way (of doing something)
+台風,たいふう Typhoon
+値段,ねだん Price
+船,ふね Ship
+裏,うら Back/Reverse side
+安心,あんしん Relief
+海岸,かいがん Coast
+間,あいだ Between
+教会,きょうかい Church
+故障,こしょう Breakdown
+胡椒,こしょう Pepper
+公務員,こうむいん Government employee
+枝,えだ Branch
+趣味,しゅみ Hobby
+柔道,じゅうどう Judo
+紹介,しょうかい Introduction
+商会,しょうかい Trading company
+新聞社,しんぶんしゃ Newspaper company
+神社,じんじゃ Shrine
+人形,にんぎょう Doll
+星,ほし Star
+盛ん,さかん Prosperous
+先輩,せんぱい Senior
+駐車場,ちゅうしゃじょう Parking lot
+点,てん Point
+熱,ねつ Fever
+漫画,まんが Manga
+無理,むり Impossible
+約束,やくそく Promise
+用意,ようい Preparation
+腕,うで Arm
+終わり,おわり End
+周り,まわり Surroundings
+一生懸命,いっしょうけんめい With all one's might
+運ぶ,はこぶ To carry
+雲,くも Cloud
+規則,きそく Rule
+鏡,かがみ Mirror
+近所,きんじょ Neighborhood
+砂,すな Sand
+指,ゆび Finger
+習慣,しゅうかん Habit
+水道,すいどう Water supply
+赤ちゃん,あかちゃん Baby
+草,くさ Grass
+送る,おくる To send
+打つ,うつ To hit
+虫,むし Insect
+適当,てきとう Appropriate
+湯,ゆ Hot water
+髪,かみ Hair
+表,おもて Front/Surface
+訪ねる,たずねる To visit
+翻訳,ほんやく Translation
+毛,け Fur/Hair
+予約,よやく Reservation
+包む,つつむ To wrap
+売り場,うりば Sales counter
+下げる,さげる To lower
+糸,いと Thread
+集める,あつめる To collect
+水泳,すいえい Swimming
+店員,てんいん Store clerk
+都合,つごう Convenience
+動物園,どうぶつえん Zoo
+道具,どうぐ Tool
+日記,にっき Diary
+背中,せなか Back (body)
+両方,りょうほう Both
+具合,ぐあい Condition
+二階建て,にかいだて Two-story building
+湖,みずうみ Lake
+講義,こうぎ Lecture
+合う,あう To fit
+引っ越す,ひっこす To move (house)
+西洋,せいよう The West
+大事,だいじ Important
+展覧会,てんらんかい Exhibition
+内,うち Inside
+美しい,うつくしい Beautiful
+返事,へんじ Reply
+踊り,おどり Dance
+踊る,おどる To dance
+昼間,ひるま Daytime
+会議室,かいぎしつ Conference room
+研究室,けんきゅうしつ Laboratory
+為,ため For the sake of
+隅,すみ Corner
+細かい,こまかい Detailed
+坂,さか Slope
+場合,ばあい Case
+数学,すうがく Mathematics
+祖父,そふ Grandfather
+祖母,そぼ Grandmother
+着物,きもの Kimono
+着る,きる To wear
+注射,ちゅうしゃ Injection
+丁寧,ていねい Polite
+田舎,いなか Countryside
+盗む,ぬすむ To steal
+倍,ばい Double
+旅館,りょかん Japanese inn
+食料品,しょくりょうひん Groceries
+屋上,おくじょう Rooftop
+火事,かじ Fire
+家事,かじ Housework
+考える,かんがえる To think
+講堂,こうどう Auditorium
+地理,ちり Geography
+倒れる,たおれる To fall over
+特急,とっきゅう Limited express train
+布団,ふとん Futon
+落ちる,おちる To fall
+辞典,じてん Dictionary
+下着,したぎ Underwear
+苦い,にがい Bitter
+大分,だいぶ Considerably
+棚,たな Shelf
+留守,るす Absence
+引き出し,ひきだし Drawer
+見つかる,みつかる To be found
+以上,いじょう More than
+以下,いか Less than
+花見,はなみ Cherry blossom viewing
+絹,きぬ Silk
+畳,たたみ Tatami mat
+飾る,かざる To decorate
+退院,たいいん Discharge from hospital
+暮れる,くれる To get dark
+冷房,れいぼう Air conditioning
+起こす,おこす To wake someone
+上がる,あがる To rise
+揚がる,あがる To fry
+揚げる,あげる To raise
+大体,だいたい Approximately
+ご存知,ごぞんじ Knowledge
+景色,けしき Scenery
+見物,けんぶつ Sightseeing
+指輪,ゆびわ Ring
+赤ん坊,あかんぼう Baby
+騒ぐ,さわぐ To make noise
+通る,とおる To pass
+漬ける,つける To soak
+電報,でんぽう Telegram
+飛行場,ひこうじょう Airport
+品物,しなもの Goods
+優しい,やさしい Kind
+贈り物,おくりもの Gift
+決まる,きまる To be decided
+決める,きめる To decide
+一杯,いっぱい Full
+喜ぶ,よろこぶ To be happy
+高等学校,こうとうがっこう High school
+思い出す,おもいだす To recall
+暖房,だんぼう Heating
+逃げる,にげる To escape
+変,へん Strange
+又は,または Or
+泥棒,どろぼう Thief
+楽しむ,たのしむ To enjoy
+見える,みえる To be visible
+受ける,うける To receive
+探す,さがす To search
+下宿,げしゅく Lodging
+始める,はじめる To begin
+手袋,てぶくろ Gloves
+申し上げる,もうしあげる To say (humble)
+発音,はつおん Pronunciation
+落とす,おとす To drop
+厳しい,きびしい Strict
+残る,のこる To remain
+小鳥,ことり Small bird
+遠慮,えんりょ Restraint
+壊す,こわす To break
+汽車,きしゃ Train
+踏む,ふむ To step on
+踏み鳴らす,ふみならす To stamp
+拒む,こばむ To refuse
+家内,かない Wife
+間に合う,まにあう To be on time
+急行,きゅうこう Express train
+集まる,あつまる To gather
+通う,かよう To commute
+怒る,おこる To get angry
+柔らかい,やわらかい Soft
+壊れる,こわれる To break (intransitive)
+申す,もうす To say (humble)
+払う,はらう To pay
+増える,ふえる To increase
+玩具,おもちゃ Toy
+急ぐ,いそぐ To hurry
+不便,ふべん Inconvenient
+文法,ぶんぽう Grammar
+木綿,もめん Cotton
+深い,ふかい Deep
+沸かす,わかす To boil
+役に立つ,やくにたつ To be useful
+乗り換える,のりかえる To transfer (trains, etc.)
+引き出す,ひきだす To withdraw
+向かう,むかう To face
+別れる,わかれる To part
+下がる,さがる To lower
+迎える,むかえる To welcome
+進む,すすむ To advance
+正しい,ただしい Correct
+大抵,たいてい Generally
+致す,いたす To do (humble)
+電灯,でんとう Electric light
+冷える,ひえる To cool
+写す,うつす To copy
+用事,ようじ Errand
+聞こえる,きこえる To be heard
+以外,いがい Except
+治る,なおる To be cured
+汚れる,よごれる To get dirty
+尋ねる,たずねる To ask
+塗る,ぬる To paint
+光る,ひかる To shine
+勝つ,かつ To win
+恥ずかしい,はずかしい Embarrassing
+滑る,すべる To slip
+似る,にる To resemble
+泊まる,とまる To stay (overnight)
+負ける,まける To lose
+眠い,ねむい Sleepy
+間違える,まちがえる To make a mistake
+拝見,はいけん To look at (humble)
+差し上げる,さしあげる To give (humble)
+歯医者,はいしゃ Dentist
+謝る,あやまる To apologize
+味噌,みそ Miso
+珍しい,めずらしい Rare
+忘れ物,わすれもの Lost item
+寂しい,さびしい Lonely
+過ぎる,すぎる To pass
+変える,かえる To change
+参る,まいる To go (humble)
+釣る,つる To fish
+悲しい,かなしい Sad
+捕まえる,つかまえる To catch
+積もり,つもり To accumulate
+触る,さわる To touch
+予習,よしゅう Preparation
+復習,ふくしゅう Review
+折る,おる To fold
+片付ける,かたづける To tidy up
+見つける,みつける To find
+移る,うつる To move (house)
+済む,すむ To finish
+直す,なおす To fix
+拾う,ひろう To pick up
+眠る,ねむる To sleep
+褒める,ほめる To praise
+足す,たす To add
+足りる,たりる To be sufficient
+濡れる,ぬれる To get wet
+鳴る,なる To ring
+降り出す,ふりだす To start falling (rain, snow)
+調べる,しらべる To investigate
+筈,はず Should
+慣れる,なれる To get used to
+億,おく Hundred million
+投げる,なげる To throw
+戻る,もどる To return
+寄る,よる To approach
+召し上がる,めしあがる To eat (respectful)
+植える,うえる To plant
+浅い,あさい Shallow
+太る,ふとる To gain weight
+祈る,いのる To pray
+捨てる,すてる To throw away
+手伝う,てつだう To help
+葡萄,ぶどう Grapes
+込む,こむ To be crowded
+回る,まわる To turn
+遅れる,おくれる To be late
+お宅,おたく Your home
+この間,このあいだ The other day
+この頃,このごろ Recently
+遠く,とおく Distant
+育てる,そだてる To raise
+苛める,いじめる To bully
+開く,ひらく To open
+割れる,われる To break
+噛む,かむ To bite
+乾く,かわく To dry
+泣く,なく To cry
+驚く,おどろく To be surprised
+建てる,たてる To build
+お礼,おれい Gratitude
+再来月,さらいげつ In two months
+暫く,しばらく For a while
+止む,やむ To stop
+止める,やめる To stop (something)
+取り替える,とりかえる To exchange
+床屋,とこや Barbershop
+焼く,やく To bake
+焼ける,やける To be baked
+寝坊,ねぼう Oversleeping
+成るべく,なるべく As much as possible
+折れる,おれる To break
+続く,つづく To continue
+続ける,つづける To keep going
+伝える,つたえる To convey
+届ける,とどける To deliver
+非常に,ひじょうに Extremely
+米,こめ Rice
+別,べつ Separate
+亡くなる,なくなる To pass away
+殆ど,ほとんど Almost
+無くなる,なくなる To be lost
+踊る,おどる To dance
+揺れる,ゆれる To sway
+立てる,たてる To stand up
+受付,うけつけ Reception
+押入れ,おしいれ Closet
+ご馳走,ごちそう Feast
+髭,ひげ Beard
+酷い,ひどい Terrible
+痩せる,やせる To lose weight
+沸く,わく To boil
+お祝い,おいわい Celebration
+治る,なおる To heal
+けれど,けれど However
+それほど,それほど Not that much
+仰る,おっしゃる To say (respectful)
+付く,つく To attach
+ご覧になる,ごらんになる To see (respectful)
+お金持ち,おかねもち Wealthy person
+お見舞い,おみまい Get-well visit
+ちっとも,ちっとも Not at all
+やっと,やっと Finally
+可笑しい,おかしい Funny
+掏摸,すり Pickpocket
+しっかり,しっかり Firmly
+お祭り,おまつり Festival
+都市,とし City
+たまに,たまに Occasionally
+すっかり,すっかり Completely
+すっと,すっと Smoothly
+どんどん,どんどん Rapidly
+はっきり,はっきり Clearly
